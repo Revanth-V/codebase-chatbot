@@ -1,0 +1,13 @@
+ipython==8.12.3
+jsonargparse==4.31.0
+langchain==0.2.6
+langchain_community==0.2.6
+langchain_core==0.2.11
+llama_index==0.10.52
+loguru==0.7.2
+nest_asyncio==1.6.0
+python-dotenv==1.0.1
+rich==13.7.1
+sentence_transformers==3.0.1
+streamlit==1.36.0
+unstructured==0.14.9
